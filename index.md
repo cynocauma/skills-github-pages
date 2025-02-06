@@ -1,4 +1,8 @@
 ---
-Hello world. Hope you're doing fine. 
+title: "Home"
+layout: default
 ---
+Hello world. Hope you're doing fine.
+
+
 
