@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Hello world. Hope you're doing fine. 
 ---
 
